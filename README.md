@@ -2,6 +2,12 @@
 
 ## I am a young promising developer who wants to develop websites
 
-Languages and Tools
+## Languages and Tools
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=dd4b25)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=2862e9)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=#254bdd)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=#5ed3f3)
+
 
 Follow me
