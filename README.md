@@ -10,4 +10,7 @@
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=#5ed3f3)
 
 
-Follow me
+## Follow me
+[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logoColor=#0077ff)](https://vk.com/sidoshi_t_t)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#25a2e0)](@SIDOSHIT_i)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=#ee4a62)](https://instagram.com/sidoshi_i?r=nametag)
